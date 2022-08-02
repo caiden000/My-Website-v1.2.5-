@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(22, 22, 22);
+}
+h2 {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: white;
+}
+h4 {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: white;
+}
+input {
+    font-size: 17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 3px;
+    outline: auto;
+    outline-color: rgb(59, 59, 59);
+    outline-style:solid;
+    outline-width: 1px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 50px;
+    width: 350px;
+    border: 100px;
+
+}
+div {
+    height: 500px;
+    width: 449px;
+    padding: 0px;
+    border: 1px solid rgb(59, 59, 59);
+    border-radius: 8px;
+    margin: 247px;
+    margin-top: 234px;
+    margin-right: 180px;
+    margin-left: 244px;
+}
+p {
+    margin-top: 40px;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: red;
+}
+
+h5{
+    font-weight: 1;
+    font-size: 16px;
+    color: grey;
+
+}
+
+button {
+    border: 1px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: rgb(0, 132, 255);
+    background-color: rgb(22, 22, 22);
+margin-right: 255px;
+margin-top: 10px;
+}
+
+h5 {
+    margin-right: 20px;
+    color: grey;
+}
+
+a{
+    margin-right: 270px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(0, 132, 255);
+}
+span{
+    margin: 340px;
+    border-radius: 8px;
+    font-size: 30px;
+    font-family: serif;
+    border: 200px;
+    color: white;
+    background-color: rgb(0, 132, 255);
+}
